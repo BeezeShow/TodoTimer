@@ -1,1 +1,1 @@
-[ССЫЛКА НА ПРИЛОЖЕНИЕ](todo-timer-beta.vercel.app)
+[ССЫЛКА НА ПРИЛОЖЕНИЕ](https://todo-timer-beta.vercel.app/)
